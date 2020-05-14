@@ -1,0 +1,17 @@
+# project
+config.py
+
+
+# logging 
+*.log
+
+# virtual enviro
+__pycache__
+/bin/
+/include/
+/lib/
+pyvenv.cfg
+
+#misc
+*.DS_Store
+.vscode
